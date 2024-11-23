@@ -28,4 +28,4 @@ You need Python 3 installed on your system to run the game.
 1. Clone the repository or download the source code.
 
    ```bash
-   git clone https://github.com/your-username/memory-game.git
+   git clone https://github.com/charite-uwatwembi/memory-game.git
