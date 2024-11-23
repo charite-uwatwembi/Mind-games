@@ -21,7 +21,7 @@ A simple command-line-based memory game where players attempt to match pairs of 
 
 ### Prerequisites
 
-You need Python 3 installed on your system to run the game.
+You need Python 3 installed on your system to run this game.
 
 ### Installation
 
