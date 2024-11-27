@@ -1,6 +1,6 @@
 # Memory Game
 
-A simple command-line-based memory game where players attempt to match pairs of letters on a 5x5 grid. The player wins by revealing all the matching pairs of letters.
+A simple command-line based memory game where players attempt to match pairs of letters on a 5x5 grid. The player wins by revealing all the matching pairs of letters.
 
 ## How It Works
 
